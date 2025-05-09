@@ -1,4 +1,8 @@
 # MolSnapper: Conditioning Diffusion for Structure Based Drug Design
+
+> [!Important]
+> Active development of this repository has been migrated to [oxpig/MolSnapper](https://github.com/oxpig/MolSnapper).  Please navigate there to raise issues and obtain the most up-to-date version of the code.
+
 > This is A tool to condition diffusion model for Generating 3D Drug-Like Molecules.
 > 
 > This repository is build on [MolDiff](https://proceedings.mlr.press/v202/peng23b.html) code and conditioned MolDiff trained [model](https://github.com/pengxingang/MolDiff/tree/master).
